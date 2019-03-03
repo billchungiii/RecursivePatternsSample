@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28531.58
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecursivePatternsSample", "RecursivePatternsSample\RecursivePatternsSample.csproj", "{E3C1155B-E7C3-4A0B-9351-E18D3DF66FD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursivePatternsSampleV70", "RecursivePatternsSampleV70\RecursivePatternsSampleV70.csproj", "{C9F890C4-B4E6-4697-BD99-4B462655AC45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3C1155B-E7C3-4A0B-9351-E18D3DF66FD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3C1155B-E7C3-4A0B-9351-E18D3DF66FD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3C1155B-E7C3-4A0B-9351-E18D3DF66FD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3C1155B-E7C3-4A0B-9351-E18D3DF66FD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9F890C4-B4E6-4697-BD99-4B462655AC45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9F890C4-B4E6-4697-BD99-4B462655AC45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9F890C4-B4E6-4697-BD99-4B462655AC45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9F890C4-B4E6-4697-BD99-4B462655AC45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E595C4FF-6384-4AA1-B754-E3BFB9E2A75F}
+	EndGlobalSection
+EndGlobal
